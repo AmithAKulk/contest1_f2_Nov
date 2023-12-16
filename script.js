@@ -10,6 +10,7 @@ const data = [{
 },
 ];
 
+// functions of array manipulation
 // 1. Print Developers
 // using function to print only developers
 function printDeveloper() {
